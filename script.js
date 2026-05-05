@@ -1,6 +1,6 @@
 // Initialization - Replace placeholders with your Supabase credentials
-const supabaseUrl = 'YOUR_SUPABASE_URL';
-const supabaseKey = 'YOUR_SUPABASE_ANON_KEY';
+const supabaseUrl =https://yxuvyimfbyhslomijipg.supabase.co;
+const supabaseKey =sb_publishable_zniEz-5gl4k48GS9eyQcnw_XdcS1b-Z;
 const _supabase = supabase.createClient(supabaseUrl, supabaseKey);
 
 // Scroll Reveal Observer
